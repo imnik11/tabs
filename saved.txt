@@ -44,3 +44,7 @@ https://www.youtube.com/watch?v=ntc0ghJyT4o&list=PLLKv-zcGiHJEytY-ELf7NmBMPmEsiR
 https://www.youtube.com/results?search_query=distributed+systems+tutorial&sp=eAE%253D
 https://deepakvadgama.com/projects/
 https://github.com/DeepakVadgama
+
+http://www.ois.com/Products/what-is-corba.html
+http://192.168.55.253:1000/fgtauth?030f7d55eef14421
+http://192.168.55.253:1000/keepalive?0f030f0c010a0a94
