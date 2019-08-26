@@ -48,3 +48,14 @@ https://github.com/DeepakVadgama
 http://www.ois.com/Products/what-is-corba.html
 http://192.168.55.253:1000/fgtauth?030f7d55eef14421
 http://192.168.55.253:1000/keepalive?0f030f0c010a0a94
+
+http://192.168.55.253:1000/keepalive?0b0e0e07000e059d
+https://www.youtube.com/watch?v=dQ5OhyAwXVg&list=PLrjkTql3jnm9FEOXHA_qjR-TMODlaIk-W&index=10
+https://developers.facebook.com/
+https://www.linkedin.com/developers/
+http://192.168.55.253:1000/keepalive?0f050d0a0f0b0e9b
+https://github.com/search?q=distributed+os
+https://github.com/imnik11/chatbot_tutorial
+https://github.com/llSourcell/Mathematics_for_Beginners
+https://github.com/imnik11/image2latex
+https://github.com/imnik11/latex2sympy
