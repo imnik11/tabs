@@ -75,5 +75,21 @@ https://www.youtube.com/watch?v=X0tjziAQfNQ
 https://engineers.sg/
 https://www.google.com/search?q=through+works&rlz=1C1CHZL_enIN840IN840&oq=through+works&aqs=chrome..69i57j0l5.3662j0j7&sourceid=chrome&ie=UTF-8
 
+https://www.youtube.com/results?search_query=grid+computing
+https://www.youtube.com/watch?v=m6C9gMgX62A
+https://www.youtube.com/watch?v=qJwqK1GVubg
+https://www.youtube.com/watch?v=esVzoSqQ1Pc
+https://www.youtube.com/watch?v=cj8ZNgnzSSU
+https://www.youtube.com/watch?v=m6C9gMgX62A
+https://viden.io/knowledge/grid-computing-ppt?utm_campaign=creator_campaign&utm_medium=referral&utm_source=youtube&utm_term=ajaze-khan-1
+https://www.networkworld.com/article/2331665/grid-computing--what-is-it-and-why-you-should-care.html
+https://csperkins.org/teaching/2005-2006/grid/tutorial01.pdf
+https://www.google.com/search?q=is+grid+computing+a+part+of+distributed+computing&gs_ivs=1#tts=0
+http://www.distributed.net/Research
+https://www.americanscientist.org/issues/pub/1998/2/collective-wisdom
+http://www.distributed.net/Source
+https://github.com/imnik11/dnetc-client-base
+https://docs.huihoo.com/globus/gt3-tutorial/ch01s01.html
+https://stadia.dev/
 
 
