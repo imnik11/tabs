@@ -92,4 +92,34 @@ https://github.com/imnik11/dnetc-client-base
 https://docs.huihoo.com/globus/gt3-tutorial/ch01s01.html
 https://stadia.dev/
 
+https://flutter.dev/docs/get-started/install/windows
+https://www.haskell.org/downloads/
+https://www.haskell.org/platform/windows.html
+https://www.google.com/search?q=haskell&rlz=1C1CHZL_enIN840IN840&oq=haskell&aqs=chrome..69i57j35i39j0l2j69i60l2.1621j0j7&sourceid=chrome&ie=UTF-8
+https://github.com/imnik11/tabs/blob/master/saved.txt
+https://www.youtube.com/channel/UCzYe1vfAqqWClhjPoqhPEGw
+https://www.networkworld.com/article/2331665/grid-computing--what-is-it-and-why-you-should-care.html
+http://192.168.55.253:1000/keepalive?0f04070900060396
+https://www.google.com/search?rlz=1C1CHZL_enIN840IN840&ei=D3xnXffXLo-DrtoPjvCK8AQ&q=build+grid+computing+application+cs&oq=build+grid+computing+application+cs&gs_l=psy-ab.3..33i160.161748.166359..169575...0.2..0.242.659.2-3......0....1..gws-wiz.......0i71j33i22i29i30.Rv-LqJuRbUc&ved=0ahUKEwi3m57mxKfkAhWPgUsFHQ64Ak4Q4dUDCAo&uact=5
+https://www.javaworld.com/article/2073356/a-do-it-yourself-framework-for-grid-computing.html
+https://www.redbooks.ibm.com/redbooks/pdfs/sg246778.pdf
+https://www.csc.ncsu.edu/research/colloquia/2002-03/2002_03-04-02_post.pdf
+https://arxiv.org/ftp/cs/papers/0407/0407001.pdf
+https://www.gridbus.org/plan-du-site/
+http://toolkit.globus.org/
+https://www.globus.org/
+https://en.wikipedia.org/wiki/Comparison_of_cluster_software
+https://en.wikipedia.org/wiki/Amoeba_(operating_system)
+https://en.wikipedia.org/wiki/DIET
+https://journals.sagepub.com/doi/10.1177/1094342006067472
+https://en.wikipedia.org/wiki/Special:Contributions/220.225.133.98
+https://www.google.com/search?q=diet+framework+for+build+grid+applications&rlz=1C1CHZL_enIN840IN840&oq=diet+framework+for+build+grid+applications&aqs=chrome..69i57.26839j0j7&sourceid=chrome&ie=UTF-8
+https://www.researchgate.net/publication/220457437_Diet_A_Scalable_Toolbox_to_Build_Network_Enabled_Servers_on_the_Grid
+https://hal.inria.fr/inria-00070406/document
+https://en.wikipedia.org/w/index.php?title=Tata_Research_Development_and_Design_Centre&action=history
+https://www.google.com/search?rlz=1C1CHZL_enIN840IN840&ei=3IBnXba5O8q6rQGNnZ24Bg&q=best+grid+middleware+in+2019&oq=best+grid+middleware+in+2019&gs_l=psy-ab.3..33i22i29i30.2909.3439..3720...0.3..0.256.699.2-3......0....1..gws-wiz.......0i71j35i39.9bJluTv7RBQ&ved=0ahUKEwi2l6-wyafkAhVKXSsKHY1OB2cQ4dUDCAo&uact=5
+https://www.researchgate.net/post/What_is_the_best_middlewares_for_grid_computing
+https://home.cern/science/computing/grid-software-middleware-hardware
+http://quattor.sourceforge.net/
+https://netstat.cern.ch/monitoring/network-statistics/visual/?p=ge
 
