@@ -123,3 +123,14 @@ https://home.cern/science/computing/grid-software-middleware-hardware
 http://quattor.sourceforge.net/
 https://netstat.cern.ch/monitoring/network-statistics/visual/?p=ge
 
+https://www.research.ibm.com/ibm-q/
+https://flutter.dev/docs/get-started/codelab
+https://flutter.dev/docs/get-started/test-drive
+https://flutter.dev/docs/get-started/test-drive
+https://developer.android.com/studio/run/emulator-acceleration
+https://developer.android.com/studio/run/win-usb
+https://www.google.com/search?q=actions+on+google&rlz=1C1CHZL_enIN840IN840&oq=actions+on+&aqs=chrome.1.69i57j0l5.5646j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=android+studio+jre+error&rlz=1C1CHZL_enIN840IN840&oq=android+studio+jre+err&aqs=chrome.1.69i57j0.10555j0j7&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/36638657/run-android-studio-with-jre-1-8-or-later-version
+https://www.youtube.com/watch?v=btFsjiugudk&t=218s
+https://github.com/imnik11/learning-flutter/new/master
