@@ -208,3 +208,15 @@ https://www.geeksforgeeks.org/python-urllib-module/
 https://docs.python.org/3/library/http.server.html
 https://stackoverflow.com/questions/2051192/what-is-a-python-egg
 https://www.devdungeon.com/content/python-import-syspath-and-pythonpath-tutorial
+
+https://www.research.ibm.com/ibm-q/
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html?index=..%2F..index#4
+https://pub.dev/packages/english_words#-installing-tab-
+https://api.flutter.dev/flutter/widgets/State-class.html
+https://material.io/components/
+https://api.flutter.dev/flutter/material/MaterialButton-class.html
+https://dart.dev/
+https://dart.dev/codelabs
+https://dart.dev/codelabs/dart-cheatsheet
+https://dart.dev/codelabs/async-await
+https://www.youtube.com/
