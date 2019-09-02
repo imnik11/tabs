@@ -279,3 +279,10 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-a
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/assignments/MIT6_046JS12_ps1_sol.pdf
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/assignments/MIT6_046JS12_ps1.pdf
+
+https://github.com/imnik11?tab=repositories
+https://github.com/imnik11/latex2sympy
+https://www.antlr.org/
+https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=x2ieuBBZWn3b
+https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb
+https://www.google.com/search?q=antlr4+PS.g4+-o+gen&rlz=1C1CHZL_enIN840IN840&oq=antlr4+PS.g4+-o+gen&aqs=chrome..69i57.442j0j7&sourceid=chrome&ie=UTF-8
