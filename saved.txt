@@ -367,3 +367,17 @@ https://courses.cognitiveclass.ai/courses/course-v1:developerWorks+BC0101EN+v1/c
 https://courses.cognitiveclass.ai/courses/course-v1:developerWorks+BC0101EN+v1/courseware/257066f41a4b4b50902428f1a22140bc/091f2dd60ce147e7a14d2f3c97127128/
 https://courses.cognitiveclass.ai/courses/course-v1:developerWorks+BC0101EN+v1/courseware/89227024130b43f684d95376901b65c8/88f7b0d592394cf98201355e4cedf7dc/1?activate_block_id=block-v1%3AdeveloperWorks%2BBC0101EN%2Bv1%2Btype%40vertical%2Bblock%40b056907f1ed64447b5144773ff277608
 https://cognitiveclass.ai/courses/ibm-blockchain-foundation-dev
+
+https://www.google.com/search?q=merge+to+excel+sheets&rlz=1C1CHZL_enIN840IN840&oq=join+to+excel+s&aqs=chrome.1.69i57j0l2.6391j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=merge+to+excel+sheets&rlz=1C1CHZL_enIN840IN840&source=lnms&tbm=vid&sa=X&ved=0ahUKEwi2q-rNpLLkAhUS3o8KHbx5DbIQ_AUIESgB
+https://www.youtube.com/watch?v=dse9h2W4ejw
+https://www.makeuseof.com/tag/merge-excel-files-sheets/
+https://www.youtube.com/
+https://www.google.com/search?q=query+editor+in+ms+excel+2007&rlz=1C1CHZL_enIN840IN840&oq=query+editior+in+ms+excel+200&aqs=chrome.1.69i57j33l2.13170j0j7&sourceid=chrome&ie=UTF-8
+https://www.excel-easy.com/examples/microsoft-query.html
+https://university.mongodb.com/courses/catalog
+https://university.mongodb.com/courses/M103/about
+https://www.google.com/search?q=building+flutter+apps+with+mongodb+as+database&rlz=1C1CHZL_enIN840IN840&oq=building+flutter+apps+with+mongodb+as+data&aqs=chrome.1.69i57j33.26967j0j7&sourceid=chrome&ie=UTF-8
+https://www.quora.com/Which-should-be-used-for-the-back-end-of-a-Flutter-app-MongoDB-Firebase-Mysql-etc
+https://github.com/flutter/flutter/issues/20139
+https://pub.dev/packages/mongo_dart
