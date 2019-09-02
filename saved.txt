@@ -286,3 +286,17 @@ https://www.antlr.org/
 https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=x2ieuBBZWn3b
 https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb
 https://www.google.com/search?q=antlr4+PS.g4+-o+gen&rlz=1C1CHZL_enIN840IN840&oq=antlr4+PS.g4+-o+gen&aqs=chrome..69i57.442j0j7&sourceid=chrome&ie=UTF-8
+
+https://github.com/imnik11/tabs/blob/master/saved.txt
+https://github.com/
+https://github.com/HackerPoet/Trackpad/blob/master/Tracker.h
+https://www.antlr.org/
+https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=6UzKXNVXZAJr
+https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb
+https://www.google.com/search?q=antlr4+PS.g4+-o+gen&rlz=1C1CHZL_enIN840IN840&oq=antlr4+PS.g4+-o+gen&aqs=chrome..69i57.442j0j7&sourceid=chrome&ie=UTF-8
+https://www.codechef.com/ide
+https://www.geeksforgeeks.org/enumeration-enum-c/
+https://www.google.com/search?q=sfml%2Fgraphics.hpp&rlz=1C1CHZL_enIN840IN840&oq=SFML%2FGraphics.hpp&aqs=chrome.0.0l5j69i58.1271j0j7&sourceid=chrome&ie=UTF-8
+https://www.sfml-dev.org/download.php
+https://github.com/SFML/SFML/pulls
+
