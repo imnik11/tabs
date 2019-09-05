@@ -414,3 +414,5 @@ https://gridcoin.us/Guides/earn-grc.htm
 https://www.reddit.com/r/gridcoin/comments/8rlr26/cpuid_differs/
 https://gridcoin.us/Guides/whitelist.htm
 https://steemit.com/gridcoin/@dutch/the-definitive-guide-to-fixing-a-split-cpid-gridcoin-s-and-boinc-s-1-problem
+
+https://pypi.org/project/urlparse4/
