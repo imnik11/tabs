@@ -542,3 +542,7 @@ https://www.allacronyms.com/STM/Software_Transaction_Memory
 https://slides.com/chenlin/software-transaction-memory#/6
 https://www.google.com/search?q=chris+schillinger&rlz=1C1CHZL_enIN840IN840&oq=Chris+Schillinger&aqs=chrome.0.0l4.1035j0j7&sourceid=chrome&ie=UTF-8
 
+https://www.google.com/search?q=shrey+baheti&rlz=1C1CHZL_enIN840IN840&oq=shrey+baheti&aqs=chrome..69i57j0.3979j0j7&sourceid=chrome&ie=UTF-8
+https://medium.com/@shreybaheti
+https://medium.com/block-16/ethereum-block-transaction-info-via-aggregated-views-api-by-block-16-aa9b175da929
+
