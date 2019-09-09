@@ -546,3 +546,13 @@ https://www.google.com/search?q=shrey+baheti&rlz=1C1CHZL_enIN840IN840&oq=shrey+b
 https://medium.com/@shreybaheti
 https://medium.com/block-16/ethereum-block-transaction-info-via-aggregated-views-api-by-block-16-aa9b175da929
 
+https://www.google.com/search?rlz=1C1CHZL_enIN840IN840&sxsrf=ACYBGNSqT9xwHqrpXc9ocenZIlSp4auTMQ%3A1568041368881&ei=mGl2XaC1NZr69QOdyojIBw&q=foundation+email+templates&oq=foundation+email&gs_l=psy-ab.3.1.0l10.2282.5364..7320...0.2..0.468.1415.0j3j2j0j1......0....1..gws-wiz.......0i71j0i67i70i249j0i131i67j0i67j0i20i263j0i10.bLyewPVzl0Y
+https://foundation.zurb.com/emails/email-templates.html
+https://www.youtube.com/watch?v=diULmp4dYdE
+https://davehoran.com/2019/08/25/hello-world/
+https://foundation.zurb.com/emails/docs/
+https://foundation.zurb.com/emails/docs/css-guide.html
+https://www.youtube.com/watch?v=lUFgOiYP9yM
+https://www.youtube.com/watch?v=7QFe1pRal4g
+https://github.com/zurb/foundation-emails
+https://htmlemail.io/foundation-template-pack/
