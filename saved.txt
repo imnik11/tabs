@@ -582,3 +582,12 @@ https://www.npmjs.com/package/cerberus-email
 https://blog.chamaileon.io/900-free-responsive-email-templates-to-help-you-start-with-email-design/
 
 https://github.com/settings/tokens
+
+https://www.youtube.com/results?search_query=c%23+tutorial+for+unity3d
+https://www.youtube.com/watch?v=tzq-DJeNIrU
+https://www.youtube.com/watch?v=7gX-M26Oj1Y
+https://www.google.com/search?q=kubernetes&rlz=1C1CHZL_enIN840IN840&oq=kuberne&aqs=chrome.1.69i57j0l5.3229j0j7&sourceid=chrome&ie=UTF-8
+https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+https://kubernetes.io/docs/home/
+https://www.google.com/search?q=docker+swarm&rlz=1C1CHZL_enIN840IN840&oq=docker&aqs=chrome.1.69i59j0l3j69i60l2.3001j0j7&sourceid=chrome&ie=UTF-8
+https://docs.docker.com/engine/swarm/
