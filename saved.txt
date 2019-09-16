@@ -664,3 +664,11 @@ https://mjml.io/try-it-live/HyzfdW58r
 https://github.com/imnik11
 https://www.google.com/search?sxsrf=ACYBGNQ42Wv6B03YO3Ob-FE5BlAHynWiOg%3A1568622945429&ei=YUl_XcrnGYL2rQH1_6GgAw&q=when+all+friends+have+reached+the+barrier+they+can+proceed&oq=program+thread+thread+stop+and+wait&gs_l=psy-ab.18..0i71l8.0.0..52722...0.2..0.0.0.......0....6..gws-wiz.u_fvNufu-AY&gs_ivs=1
 https://github.com/angrave/SystemProgramming/wiki/Synchronization,-Part-6:-Implementing-a-barrier
+
+https://www.google.com/search?rlz=1C1CHZL_enIN840IN840&sxsrf=ACYBGNTvPqA6jg3NhrO7eRyTpPr6a-ju3w%3A1568622115837&ei=I0Z_XYjiMpb1hwP_vpqwAg&q=+timer+objects+in+python&oq=+timer+objects+in+python&gs_l=psy-ab.3..0.7914332.7914332..7914602...0.1..0.169.169.0j1......0....1..gws-wiz.......0i71.wkAPUFQauOg&ved=0ahUKEwjI_4Dg9NTkAhWW-mEKHX-fBiYQ4dUDCAs&uact=5
+https://docs.python.org/2.4/lib/timer-objects.html
+https://docs.python.org/2.4/lib/modindex.html
+https://docs.python.org/2/library/threading.html
+https://github.com/python/cpython/blob/2.7/Lib/threading.py
+https://www.youtube.com/watch?v=-6IgMJgbh64
+
