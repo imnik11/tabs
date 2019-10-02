@@ -764,3 +764,14 @@ https://www.youtube.com/watch?v=A-GkNM8M5p8
 https://docs.unity3d.com/ScriptReference/
 https://drive.google.com/drive/u/0/folders/1F-vL0ftn8rsBAohKvFw_DVxYMu7WllKF
 https://github.com/imnik11/tabs/blob/master/saved.txt
+
+https://medium.com/@caseyweeks/the-making-of-kickochet-a-gmtk2019-jam-game-f4931c670b32
+https://drive.google.com/drive/u/0/shared-with-me
+http://192.168.55.253:1000/keepalive?0705080d0e0e0d97
+https://www.youtube.com/
+https://www.youtube.com/watch?v=FZBFV7xfGaY
+https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/tf_hub_generative_image_module.ipynb#scrollTo=fZ0O5_5Jhwio
+https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_3d.ipynb
+https://www.youtube.com/watch?v=H1AllrJ-_30
+https://transformer.huggingface.co/doc/gpt2-large
+https://transformer.huggingface.co/
