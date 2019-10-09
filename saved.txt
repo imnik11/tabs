@@ -992,3 +992,14 @@ https://blockchan.ge/blockchange-land-registry.pdf
 file:///C:/Users/nitey/Downloads/01-11-Hjelte-872_ppt.pdf
 https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction
 https://chromaway.com/papers/Blockchain_Landregistry_Report_2017.pdf
+
+https://university.mongodb.com/dashboard
+https://university.mongodb.com/mercury/M001/2019_October/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361b1/problem
+https://university.mongodb.com/mercury/M001/2019_October/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ba/lecture
+https://university.mongodb.com/mercury/M001/2019_October/chapter/Chapter_2_The_MongoDB_Query_Language_Atlas/lesson/595aae2236942e83e9a361ba/lecture
+http://portquiz.net:27017/
+https://cognitiveclass.ai/cognitive-class-mobile-apps
+https://courses.cognitiveclass.ai/dashboard
+https://www.google.com/search?q=iot&rlz=1C1CHZL_enIN840IN840&oq=iot&aqs=chrome..69i57j69i59l2j69i61.860j0j1&sourceid=chrome&ie=UTF-8
+https://github.com/
+https://cloud.mongodb.com/v2#/org/5c412236a6f23952205fd5d8/projects
