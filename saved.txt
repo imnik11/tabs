@@ -1003,3 +1003,17 @@ https://courses.cognitiveclass.ai/dashboard
 https://www.google.com/search?q=iot&rlz=1C1CHZL_enIN840IN840&oq=iot&aqs=chrome..69i57j69i59l2j69i61.860j0j1&sourceid=chrome&ie=UTF-8
 https://github.com/
 https://cloud.mongodb.com/v2#/org/5c412236a6f23952205fd5d8/projects
+
+https://stackoverflow.com/questions/56336229/byzantine-fault-tolerance-bft-and-crash-fault-tolerance-cft
+https://www.google.com/search?q=Crash+fault+tolerance+(CFT)&rlz=1C1CHZL_enIN840IN840&oq=Crash+fault+tolerance+(CFT)&aqs=chrome..69i57j0j69i60.703j0j1&sourceid=chrome&ie=UTF-8
+https://medium.com/kokster/understanding-hyperledger-fabric-byzantine-fault-tolerance-cf106146ef43
+https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html
+https://sawtooth.hyperledger.org/faq/consensus/
+https://kaleido.io/consensus-algorithms-poa-ibft-or-raft/
+https://kaleido.io/product/
+https://blockchain.intellectsoft.net/blog/consensus-protocols-that-serve-different-business-needs-part-2/
+https://blog.acolyer.org/2016/12/12/xft-practical-fault-tolerance-beyond-crashes/
+https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419
+https://scholar.google.co.in/scholar?q=byzantine+fault+tolerance+(bft)&hl=en&as_sdt=0&as_vis=1&oi=scholart
+https://medium.com/@nitesh4y2001/learning-gcp-essentials-deb68bbf49ff
+https://scholar.google.co.in/scholar?q=deterministic+consensus+algorithms&hl=en&as_sdt=0&as_vis=1&oi=scholart
