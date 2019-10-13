@@ -1029,3 +1029,9 @@ https://university.mongodb.com/mercury/M001/2019_October/chapter/Chapter_2_The_M
 http://tapanksahu.blogspot.com/2017/08/m001-mongodb-basics-q-quiz-labs-final.html
 https://university.mongodb.com/courses/M121/about
 
+https://docs.mongodb.com/manual/reference/operator/update/unset/
+https://docs.mongodb.com/manual/reference/operator/update/position/
+https://docs.mongodb.com/manual/reference/operator/update/addToSet/
+https://docs.mongodb.com/manual/reference/operator/update/set/
+https://docs.mongodb.com/manual/reference/method/db.collection.update/#db.collection.update
+https://docs.mongodb.com/manual/reference/method/db.collection.findAndModify/#db.collection.findAndModify
