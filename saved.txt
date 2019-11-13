@@ -1107,3 +1107,8 @@ https://www.microsoft.com/en-us/research/people/simonpj/?from=http%3A%2F%2Fresea
 https://www.microsoft.com/en-us/research/people/simonpj/publications/
 https://www.youtube.com/user/OreillyMedia/playlists
 https://medium.com/@NextRealityNews/the-future-of-augmented-reality-blockchain-technology-9a24b8a0a1ec
+
+
+https://www.codecademy.com/articles/what-is-cors
+https://unix.stackexchange.com/questions/524283/bash-set-variable-to-command-output
+https://github.com/mortennobel/CMake-Cheatsheet/blob/master/CMake_Cheatsheet.pdf
